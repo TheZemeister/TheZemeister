@@ -8,9 +8,6 @@
 - **Cybersecurity** 
 - **IELTS Preparation**  
 
-## 💞️ Looking to Collaborate  
- Cybersecurity content.  
-
 ## 📫 Contact Me  
 - GitHub: [@TheZemeisterman](https://github.com/TheZemeister)  
 - Telegram: [@The_zemeister]  
